@@ -9,6 +9,24 @@ links.html      | The site's link page
 links.css       | Style in the page with links
 addition.css    | Additional styles
 
+<h2> My style </h2>
+
+```css
+            </style>
+            <style type="text/css">
+                body{
+                    text-align:center;
+                    background:#dfdfdf;
+                    }
+                    h1{
+                    text-transform:uppercase;
+                    font-size:72px;
+                    font-family:'Verdana';
+                    padding:30px;
+                    }
+            </style>
+```
+
 <h2> In developer! </h2>
 
 1. index.html
