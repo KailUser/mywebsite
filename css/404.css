@@ -1,0 +1,29 @@
+
+ @font-face {
+  font-family: Roboto; /* Гарнитура шрифта */
+  src: url(fonts/Roboto-Black.ttf); /* Путь к файлу со шрифтом */
+ }
+ h1 {
+     font-family: Roboto, '404', cursive;
+
+ }
+ h2 {
+     font-family: Roboto, '404', cursive;
+
+ }
+ body{
+  text-align:center;
+  background:#dfdfdf;
+  }
+  h1{
+  text-transform:uppercase;
+  font-size:72px;
+  font-family:'Verdana';
+  padding:30px;
+  }
+  h2{
+    text-transform:uppercase;
+    font-size:72px;
+    font-family:'Verdana';
+    padding:30px;
+    }
