@@ -1,0 +1,39 @@
+#content {
+    width: 500px; /* Ширина слоя */
+    margin: 0 auto 50px; /* Выравнивание по центру */
+   }
+   #footer {
+    position: fixed; /* Фиксированное положение */
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding: 10px; /* Поля вокруг текста */
+    background: #ee0808; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    width: 100%; /* Ширина слоя */
+    
+   }
+   body{
+    text-align:center;
+    background:#dfdfdf;
+    }
+    h1{
+    text-transform:uppercase;
+    font-size:72px;
+    font-family:'Verdana';
+    padding:30px;
+    }
+    @font-face {
+        font-family: Roboto; /* Гарнитура шрифта */
+        src: url(fonts/Roboto-Black.ttf); /* Путь к файлу со шрифтом */
+       }
+       h1 {
+           font-family: Roboto, 'Сайт', cursive;
+       
+       }
+       h2 {
+           font-family: Roboto, 'Сайт', cursive;
+       
+       }
+       p {
+           font-family: Roboto, 'Сайт', cursive;
+       
+       }
