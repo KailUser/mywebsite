@@ -32,13 +32,3 @@ Roboto: https://fonts.google.com/specimen/Roboto?selection.family=Roboto
 
 <h2> In developer! </h2>
 
-1. index.html
-
-2. index.css 
-
-3. links.html
-
-4. links.css
-
-5. addition.css
-
